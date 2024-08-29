@@ -8,7 +8,7 @@ function MyButton() {
     </button>
   );
 }
-
+// This is a simple comment used to test git push & pull
 export default function MyApp() {
   return (
     <div>
