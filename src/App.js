@@ -9,6 +9,7 @@ function MyButton() {
   );
 }
 // This is a simple comment used to test git push & pull
+// This is a freshman who is learning coding
 export default function MyApp() {
   return (
     <div>
